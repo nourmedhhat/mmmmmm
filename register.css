@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    background-color: rgb(197, 213, 213);
+    border: blue 5px solid;
+    margin:100px 150px;
+    font-size: 50px;
+    font-style: italic;
+}
+a{
+    font-size: 20px;
+    margin-left:700px;
+}
+h1{
+    color:blue;
+}
+button{
+    font-size:40px;
+    border:solid black 3px;
+    background-color: orange;
+        font-style: italic;
+
+}
